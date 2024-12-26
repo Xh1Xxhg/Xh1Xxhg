@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 > 💪Dream of becoming a Full-Stack security researcher
 
 - 🔭 I am about to start my master's program at Beijing University of Posts and Telecommunications' School of Cyberspace Security.
-- 🌱 I’m currently learning security.
+- 🌱 I’m currently learning vulnerability discovery.
+- 🎼：I love music🎧, including pop and R&B, and hope to master more music theory knowledge🎹 and vocal skills🎤.
 - 😄 Pronouns: XoX（?
 - ⚡ Fun fact: ...
 
