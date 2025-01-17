@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I am about to start my master's program at Beijing University of Posts and Telecommunications' School of Cyberspace Security.
 - 🌱 I’m currently learning vulnerability discovery.
 - 🎼 I love music🎧, including pop and R&B, and hope to master more music theory knowledge🎹 and vocal skills🎤.
-- 😄 Pronouns: XoX（?
+- 😄 Pronouns: **KoSa**✅、~~**XoX**~~（?
 - ⚡ Fun fact: ...
 
 ![](https://github-readme-stats.vercel.app/api?username=Xh1Xxhg&show_icons=true&theme=transparent)
