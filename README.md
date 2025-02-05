@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xh1Xxhg&layout=compact&theme=tokyonight)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/Xh1Xxhg/count.svg) visitor~ Thank you!😘😘
+You are my ![Visitor Count](https://profile-counter.glitch.me/Xh1Xxhg/count.svg) visitor~ Thank you!😘😘😘
 
 
