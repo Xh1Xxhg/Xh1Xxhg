@@ -8,7 +8,7 @@
 - 📫 How to reach me: ...
 Here are some ideas to get you started:
 -->
-> 💪Dream of becoming a Full-Stack Cyber Security Researcher
+> 💪Dream of becoming a Full-Stack Cybersecurity Researcher
 
 - 🔭 I am about to start my master's program at Beijing University of Posts and Telecommunications' School of Cyberspace Security.
 - 🌱 I’m currently learning vulnerability discovery.
