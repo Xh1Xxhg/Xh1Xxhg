@@ -1,4 +1,4 @@
-## Hi there, I'm [Xh1Xxhg(KoSa](https://Xh1Xxhg.github.io)👋
+## Hi there, I'm [Xh1Xxhg](https://Xh1Xxhg.github.io)👋
 
 <!--
 **Xh1Xxhg/Xh1Xxhg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
