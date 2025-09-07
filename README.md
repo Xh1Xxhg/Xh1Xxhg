@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning vulnerability discovery.
 - 🎼 I love music🎧, including pop and R&B, and hope to master more music theory knowledge🎹 and vocal skills🎤.
 - 😄 Pronouns: **KoSa**✅、~~**XoX**~~（?
-- ⚡ Fun fact: ...
-
-![](https://github-readme-stats.vercel.app/api?username=Xh1Xxhg&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xh1Xxhg&layout=compact&theme=tokyonight)
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/Xh1Xxhg/count.svg) visitor~ Thank you!😘😘😘
+- ⚡ Fun fact: 🐏...
 
 
