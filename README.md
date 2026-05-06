@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 -->
 > 💪Dream of becoming a Full-Stack Cybersecurity Researcher
 
-- 🔭 I will soon be a graduate student in the school of Cyberspace Security at Beijing University of Posts and Telecommunications.
-- 🌱 I’m currently learning vulnerability discovery.
+- 🔭 BUPT graduate student
+- 🌱 Vulnerability Discovery.
 - 🎼 I love music🎧, including pop and R&B.
 - ⚡ Fun fact: 🐏...
 
